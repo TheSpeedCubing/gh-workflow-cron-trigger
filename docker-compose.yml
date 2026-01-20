@@ -1,6 +1,6 @@
 services:
   gh-workflow-cron-trigger:
-    image: gh-workflow-cron-trigger
+    image: ghcr.io/thespeedcubing/gh-workflow-cron-trigger
     container_name: gh-workflow-cron-trigger
     env_file:
       - .env
