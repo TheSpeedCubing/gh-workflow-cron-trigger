@@ -2,7 +2,7 @@
 
 automatically trigger GitHub Actions workflows with cron scheduling.
 
-## How to (As a User)
+## How to (Deploy with Docker)
 
 1. Clone this Repository:
 
